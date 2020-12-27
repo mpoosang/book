@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font: calc(100% * 0.625) / 1.15 Helvetica, sans-serif;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.875;
+  color: #252525;
+  margin: 0;
+}
+
+header {
+  background-color: #252525d2;
+  color: #fff;
+  padding: 2rem;
+}
+
+header > h1,
+main {
+  width: 95%;
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+
+
